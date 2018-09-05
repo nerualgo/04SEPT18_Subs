@@ -1,0 +1,5 @@
+package com.cwvs.backend.repo;
+
+public class SubjectRepository {
+
+}

@@ -1,0 +1,5 @@
+package com.cwvs.backend.controller;
+
+public class SubjectController {
+
+}
